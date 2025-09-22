@@ -2,7 +2,6 @@ id: example
 name: Example Dojo
 type: example
 allow_iframe: false
-course_start: '2025-08-21'
 award:
   emoji: 😀
 image: pwncollege/challenge-simple
