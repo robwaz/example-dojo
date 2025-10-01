@@ -1,6 +1,8 @@
 name: Hello
 challenges:
-  - id: apple
-    name: Apple
   - id: banana
     name: Banana
+    custom_js: |
+      alert('hello world!')
+  - id: apple
+    name: Apple
