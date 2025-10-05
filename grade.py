@@ -1,10 +1,6 @@
 
 
-
-import js
-js.document.title = 'Does this work?'
-
-def grade():
-    return {}
-
-
+def grade(data):
+    return {"overall": dict(credit=1, letter="a"),
+            "assignments": []
+            }
