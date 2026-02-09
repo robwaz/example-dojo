@@ -4,7 +4,6 @@ type: example
 image: registry.dev.pwn.college/example-2ae57c12/robotest
 award:
   emoji: 😀
-image: pwncollege/challenge-simple
 modules:
   - id: hello
   - id: world
